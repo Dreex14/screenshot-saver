@@ -1,0 +1,2 @@
+# Solo los módulos básicos de Qt (QtCore, QtGui, QtWidgets).
+PySide6-Essentials>=6.8
